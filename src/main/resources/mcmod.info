@@ -1,0 +1,17 @@
+[
+{
+  "modid": "thaumiconeprobe",
+  "name": "Thaumic One Probe",
+  "description": "Adds TOP integration for various Thaumcraft apparatus.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["phantamanta44"],
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "dependencies": [],
+  "requiredMods": ["thaumcraft", "theoneprobe"]
+}
+]
